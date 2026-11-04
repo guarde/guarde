@@ -2,7 +2,7 @@
   <img src="banner.jpg" alt="banner">
 </p>
 
-## Hi there 👋
+<h3 align="center">hello!</h3>
 
 <!--
 **guarde/guarde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
